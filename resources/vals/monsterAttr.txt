@@ -1,0 +1,49 @@
+{	
+	"Skeleton" : {
+		"maxHP" : "15",
+		"AC" : "1"
+		"EV" : "4",
+		"attack_1" : {
+			"toHit" : "1",
+			"dmg" : "4",
+			"flavour" : "PLAIN",
+			"type" : "hit"
+		},
+		"speed" : "12",
+		"diff" : "1",
+	},
+	
+	"Goblin" : {
+		"maxHP" :"8",
+		"AC":"2",
+		"EV" : "8",
+		"attack_1" : {
+			"toHit" : "2",
+			"dmg" : "3",
+			"flavour" : "PLAIN",
+			"type" : "bite"
+		},
+		"speed" : "8",
+		"diff": "1",
+	}	
+	
+	"Rat" : {
+		"maxHP" : "3",
+		"AC" : "0",
+		"EV" : "12",
+		"attack_1": {
+			"toHit" : "6",
+			"dmg" : "1",
+			"flavour" : "PLAIN",
+			"type" : "hit"
+		},
+		"attack_2" : {
+			"toHit" : "6",
+			"dmg" : "1",
+			"flavour" : "PLAIN",
+			"type" : "claw",
+		}
+		"speed" : "10",
+		"diff" : "1",
+	}
+}

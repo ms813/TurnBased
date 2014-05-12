@@ -1,0 +1,29 @@
+{
+	"chainmail" : {
+		"AC" : "10",
+		"EV" : "-8",
+		"GDR" : "0.3",
+		"equipSlot" : "BODY",
+	}
+	
+	"helmet" : {
+		"AC" : "2",
+		"EV" : "0",
+		"GDR" : "0",
+		"equipSlot" : "HEAD",
+	}
+	
+	"gloves" : {
+		"AC" : "2",
+		"EV" : "0",
+		"GDR" : "0",
+		"equipSlot" : "GLOVES",
+	}
+	
+	"boots" : {
+		"AC" : "2",
+		"EV" : "2",
+		"GDR" : "0",
+		"equipSlot" : "BOOTS",
+	}
+}

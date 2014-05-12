@@ -1,0 +1,11 @@
+{
+	"human" : {
+		"maxHP" : "1",
+		"maxMP" : "1",
+	}
+	
+	"dwarf" : {
+		"maxHP" : "1.2",
+		"maxMP" : "0.8",
+	}	
+}

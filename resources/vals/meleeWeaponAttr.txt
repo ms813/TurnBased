@@ -1,0 +1,13 @@
+{
+	"dagger" : {
+		"toHit" : "6",
+		"dmg" : "4",
+		"equipSlot" : "LEFT_HAND",
+	}
+	
+	"longsword" : {
+		"toHit" : "2",
+		"dmg" : "10",
+		"equipSlot" : "LEFT_HAND",
+	}
+}
